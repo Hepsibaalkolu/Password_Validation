@@ -48,11 +48,6 @@ Feel free to fork this repository and improve the project! PRs are welcome. 😊
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 💡 **Happy Coding!** 💻✨
 
