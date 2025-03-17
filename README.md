@@ -37,15 +37,10 @@ npm install
 npm start
 ```
 
-Your application will now be running on [**http://localhost:3000/**](http://localhost:3000/) 🎉
+Your application will now be running on [**http://localhost:3000/**]🎉
 
 ---
 
-## 📷 Screenshots (Optional)
-
-
-
----
 
 ## 🤝 Contributing
 
