@@ -1,8 +1,4 @@
 Project name: Password validation using react js
-Poject author: thewebsources
-website-name: https://thewebsources.com/
-Youtube-channel: https://www.youtube.com/@thewebsources
-Video-link: https://youtu.be/FaxwR9rCAi8
 
 =========================================================================
 
